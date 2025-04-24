@@ -34,7 +34,7 @@
 - 💣 Real-World Exploits & CTFs  
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/rajput2107/rajput2107/main/Assets/Developer.gif](https://user-images.githubusercontent.com/121322/32070715-163a1c94-ba42-11e7-80bb-41fbf10fc634.gif)" width="400" alt="Terminal coding" />
+  <img src="https://user-images.githubusercontent.com/121322/32070715-163a1c94-ba42-11e7-80bb-41fbf10fc634.gif" width="400" alt="hacking animation" />
 </p>
 
 
