@@ -34,8 +34,9 @@
 - 💣 Real-World Exploits & CTFs  
 
 <p align="center">
-  <img src="https://media.tenor.com/OyUVgVbqgHAAAAAC/hacker.gif" width="400" alt="hacking" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="hacking in progress" />
 </p>
+
 
 
 ---
