@@ -34,8 +34,9 @@
 - 💣 Real-World Exploits & CTFs  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdjM3R4b21ha29zMmR3dXpyNWw5b3l2YmpsOHN0eW9jdHFtdDdxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf3fU0qPT0ytpJ07Fz/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/OyUVgVbqgHAAAAAC/hacker.gif" width="400" alt="hacking" />
 </p>
+
 
 ---
 
