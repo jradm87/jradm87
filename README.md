@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20jradm87's%20GitHub!&fontSize=35&animation=fadeIn&fontAlignY=40" />
 
-<h1 align="center">👋 Hey there, I'm Carlos (jradm87)</h1>
+<h1 align="center">👋 Hey there, I'm Junior</h1>
 <p align="center">
   🛠️ Infrastructure Analyst • Linux • Python • Red Team Enthusiast <br>
   💻 DevOps, Automation, Offensive Security & Mobile Hacking <br>
