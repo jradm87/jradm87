@@ -34,7 +34,7 @@
 - 💣 Real-World Exploits & CTFs  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="hacking in progress" />
+  <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/programming.gif" width="400" alt="hacking in progress" />
 </p>
 
 
